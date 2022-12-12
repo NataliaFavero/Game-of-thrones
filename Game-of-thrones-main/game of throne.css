@@ -1,0 +1,35 @@
+header{
+	background: black;
+	width:100%;
+}
+
+.logo{
+	display: inline-block;
+	padding: 0px 50px;
+}
+
+.lista{
+	
+	text-transform: uppercase;
+	color:white;
+	font-weight: bold;
+	font-size: 30px;
+	margin:0px 60px;
+	display: inline;
+	padding: 340px;
+
+
+
+}
+.lista li{
+	display:inline;
+
+}
+
+.p1{
+	font-size: 30px;
+}
+.p2{
+	font-size: 30px;
+}
+
